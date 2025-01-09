@@ -1,0 +1,42 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMseUCZ0xWbMl9JnapSvGYN"
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": 2,
+      "metadata": {
+        "id": "eFmkJPjFu-SU",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "outputId": "d5541ed2-e5aa-4dba-9788-cd51a117b23b"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hello Dana\n"
+          ]
+        }
+      ],
+      "source": [
+        "print (\"Hello Dana\")"
+      ]
+    }
+  ]
+}
